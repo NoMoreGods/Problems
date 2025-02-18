@@ -1,3 +1,4 @@
+//Что выведет Promise
 Promise.resolve(1)
     .then(x=>x+1) //1+1 = 2
     .then(x=>x+'str') // 2+'str' ='2str'
